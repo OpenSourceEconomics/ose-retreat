@@ -28,7 +28,7 @@ To get a sense of **OSE Retreat**, we are happy to provide an overview of our pa
 ## Keynote Speech
 
 ### Placeholder
-Fedor Iskhakov,   
+**Fedor Iskhakov,**  
 *Professor Australian National University*
 
 
@@ -83,11 +83,11 @@ __Abstract__<br>
 *University of Bonn*
 
 __Abstract__<br>
-*The paper revisits [Rust (1987)](https://www.jstor.org/stable/1911259?seq=1#page_scan_tab_contents) and evaluates the sensibility of the decision rule performance to the estimation quality of the transition probabilities. Can the agent account for uncertainty in his estimates? Does accounting for uncertainty lead to a better decision strategy?*
+*The paper revisits [Rust (1987)](https://www.jstor.org/stable/1911259?seq=1#page_scan_tab_contents) and evaluates the sensibility of the decision rule performance to the estimation quality of the transition probabilities. Can the agent account for uncertainty in his estimates? Does accounting for uncertainty lead to a better decision strategy? (tbadded 25th November 2019)*
 
 
 ### [Structural Estimation by Homotopy Continuation](material/presentations/mueller_homotopycontinuation.pdf)
-Philipp Mueller,   
+**Philipp Mueller,**     
 *University of Zurich*
 
 __Abstract__<br>
@@ -95,7 +95,7 @@ __Abstract__<br>
 
 
 ### Placeholder
-Robert Erbe,   
+**Robert Erbe,**      
 *University of Zurich*
 
 
