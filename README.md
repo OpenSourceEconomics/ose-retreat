@@ -6,12 +6,12 @@ The **OSE Retreat** is an event hosted by the [OpenSourceEconomics (OSE)](https:
 
 ## Keynote Speech
 
-### Placeholder
+### Effects of Taxes and Safety Net Pensions on life-cycle Labor Supply, Savings and Human Capital: the Case of Australia
 **Fedor Iskhakov**, *Australian National University*
 
+The paper structurally estimates a life-cycle model of consumption/savings, labor supply and retirement, using data from the Australian HILDA panel. The model is used to evaluate effects of the Australian aged pension system and tax policy on labor supply, consumption and retirement decisions. The model accounts for human capital accumulation via learning by doing, as well as wealth accumulation and decumulation over the life cycle, uninsurable wage risk, credit constraints, a non-absorbing retirement decision, and labor market frictions. We account for the ''bunching'' of hours by discretizing job offers into several hours levels, allowing us to investigate labor supply on both intensive and extensive margins. Our model allows us to quantify the effects of anticipated and unanticipated tax and pension policy changes at different points of the life cycle. The results imply that the Australian Aged Pension system as currently designed is very poorly targeted, so that means testing and other program rules could be improved.
 
-### [Journal of Open Source Economics](http://josecon.org/)  
-Fedor introduced us to the emerging [*Journal of Open Source Economics*](http://josecon.org/) which will publish short papers on reusable code and allow computational economists to collect citations for their coding work.
+
 
 ## Presentations
 
@@ -28,8 +28,7 @@ The presentation compares different integration methods to solve the so-called E
 
 
 ### [Efficient Solution, Filtering and Estimation of Models with OBCs](material/presentations/boehl_modelsobc.pdf)
-**Gregor Boehl,**   
-*Goethe University Frankfurt*
+**Gregor Boehl,** *Goethe University Frankfurt*
 
 Occasionally binding constraints (OBCs) play a central role in macroeconomic modelling since major developed economies have hit the zero lower bound (ZLB) on interest rates. The paper proposes a solution method for rational expectations models with OBCs and a Bayesian filter/smoother that, both combined, can be used for quick and accurate Bayesian estimation of large-scale models. The quasi-analytic solution method calculates the endogenous duration at the constraint while avoiding matrix inversions and simulations at runtime for gains in computational speed. The TEnKF (transposed Enseble Kalman Filter) is a hybrid of the particle filter and the Kalman filter that, requiring only a very small number of particles, can be used to approximate the likelihood of nonlinear models with high accuracy. The IPA (iterative path-adjusting transposed-ensemble RTS) smoother adds a smoother and an iterative procedure to filter and can be applied to estimate the state distributions while fully respecting the nonlinearity of the transition function. Further, a massively parallelized combination of different forms of heuristic global optimizers is proposed to avoid local maxima of the likelihood function. Techniques from astrophysics for efficient sampling from the posterior distribution are suggested. As an example, these methods are used to estimate the simple New Keynesian model. (The current version of the paper can be accessed at the homepage of [Gregor Boehl (2019)](http://gregorboehl.com/live/obc_boehl.pdf))
 
@@ -37,8 +36,7 @@ Occasionally binding constraints (OBCs) play a central role in macroeconomic mod
 ### [A Primer on Recursive Likelihood Function Integration](material/presentation/maag_rescursivelikelihood.pdf)
 **Jasmin Maag,** *University of Zurich*
 
-__Abstract__<br>
-*A primer that present a method to efficiently estimated hidden Markov models with continuous latent variables using maximum likelihoof estimation. The name Recursive Maximum Likelihood Integration (RLI) is derived from its design: To evaluate the (marginal) likelihood function the integral is decomposed over the unobserved state variables into a series of lower dimensional integrals. Those integrals are recursively approximated by numerical quadrature and interpolation. Advantages include: 1) computational complexitly grows linearly in the number of periods, 2) numerical error accumulates sublinearly in the number of time periods integrated. The method is applied to the Rust bus enginge replacement model of [Rust (1987)](https://www.jstor.org/stable/1911259?seq=1#page_scan_tab_contents). The presentation is based on a publication by [Gregor Reich (2018)](https://pubsonline.informs.org/doi/abs/10.1287/opre.2018.1750).*
+A primer that presents a method to efficiently estimate hidden Markov models with continuous latent variables using maximum likelihood estimation. The name Recursive Maximum Likelihood Integration (RLI) is derived from its design: to evaluate the (marginal) likelihood function the integral is decomposed over the unobserved state variables into a series of lower dimensional integrals. Those integrals are recursively approximated by numerical quadrature and interpolation. Advantages include: 1) computational complexitly grows linearly in the number of periods, 2) numerical error accumulates sublinearly in the number of time periods integrated. The method is applied to the Rust bus enginge replacement model of [Rust (1987)](https://www.jstor.org/stable/1911259?seq=1#page_scan_tab_contents). The presentation is based on a publication by [Gregor Reich (2018)](https://pubsonline.informs.org/doi/abs/10.1287/opre.2018.1750).
 
 
 ### [„Small Data“: Estimation of Dynamic Models with Unobservable or Occasionally Observable States](material/presentations/reich_oosdata.pdf)
@@ -47,7 +45,7 @@ __Abstract__<br>
 [Gregor Reich (2018)](https://pubsonline.informs.org/doi/abs/10.1287/opre.2018.1750) estimates the models of [Rust (1987)](https://www.jstor.org/stable/1911259?seq=1#page_scan_tab_contents) with serially correlated EV1 errors. So far, states were either observed or unobserved. But what changes if the states are occassionally observed? It turns out that the method of Recursive Maximum Likelihood Integration (RLI) is still applicable but with respect to the model, there is need to take care for the one-sided laws of motion. For example, assuming that buses are new when entering the data set but only the milage state at engine replacement is observable, then only the cost trade-off can be consistently estimated, but not the law of motion of mileage. The problem: a comparison of two estimates does not reveal much in this setting. Consequently, the distribution of the estimator (parametric bootstrapping) at various observation frequencies is compared. The main finding shows that a similar distribution does imply a similar point estimate.
 
 
-### [Robust investments under risk and ambiguity](material/presentations/blesch_robustinvestment.pdf)
+### [Robust Investments under Risk and Ambiguity](material/presentations/blesch_robustinvestment.pdf)
 **Maximilian Blesch,** *University of Bonn*
 
 The paper revisits [Rust (1987)](https://www.jstor.org/stable/1911259?seq=1#page_scan_tab_contents) and evaluates the sensibility of the decision rule performance to the estimation quality of the transition probabilities. Can the agent account for uncertainty in his estimates? Does accounting for uncertainty lead to a better decision strategy? (tbadded 25th November 2019).
