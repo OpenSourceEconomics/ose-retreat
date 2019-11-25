@@ -1,20 +1,20 @@
 # OpenSourceEconomics (OSE) Retreat
 
-The **OSE Retreat** is an event hosted by the [OpenSourceEconomics (OSE)](https://nbviewer.jupyter.org/format/slides/github/OpenSourceEconomics/hackathon_material/blob/master/promotion/OSE_promotion.ipynb#/) initiative in Bonn. 
+The **OSE Retreat** is an event hosted by the [OpenSourceEconomics (OSE)](https://nbviewer.jupyter.org/format/slides/github/OpenSourceEconomics/hackathon_material/blob/master/promotion/OSE_promotion.ipynb#/) initiative in Bonn.
 
-One of our main goals is to bolster the ongoing interchange of concepts, methods, and ideas around structural economics. To this end, the **OSE Retreat** is a dedicated event that fosters new developments, and establishes a network including doctoral student, post-doctoral scholars, and leading researchers in the field. 
+One of our main goals is to bolster the ongoing interchange of concepts, methods, and ideas around structural economics. To this end, the **OSE Retreat** is a dedicated event that fosters new developments, and establishes a network including doctoral student, post-doctoral scholars, and leading researchers in the field.
 
-The **OSE Retreat** encourages to present early-stage / fleshed-out research ideas, presentations of working / published papers, and other contributions covering structural econometric models, sofware packages and scientific computing. We aim to mutually increase our understanding of methods emerging in intersecting disciplines (i.e. mathematics or computer science), and how they can be applied to economic problems. 
+The **OSE Retreat** encourages to present early-stage / fleshed-out research ideas, presentations of working / published papers, and other contributions covering structural econometric models, sofware packages and scientific computing. We aim to mutually increase our understanding of methods emerging in intersecting disciplines (i.e. mathematics or computer science), and how they can be applied to economic problems.
 
 To get a sense of **OSE Retreat**, we are happy to provide an overview of our past events.
 
-# OSE Retreat,  *13th September, 2019*  *University of Bonn*. 
+# OSE Retreat,  *13th September, 2019*  *University of Bonn*.
 
 ***Organizer*** <br>
 **Philipp Eisenhauer,**<br>
 *University of Bonn*
 
-<br> 
+<br>
 
 <p align="center">
   <img width="460" height="360" src=material/images/StructRetreat.jpg alt="Organizer Philipp and Keynote Speaker Fedor">
@@ -28,13 +28,12 @@ To get a sense of **OSE Retreat**, we are happy to provide an overview of our pa
 ## Keynote Speech
 
 ### Placeholder
-**Fedor Iskhakov,**  
-*Professor Australian National University*
+**Fedor Iskhakov**, *Australian National University*
 
 
 ### [Journal of Open Source Economics](http://josecon.org/)  
 Fedor introduced us to the emerging [*Journal of Open Source Economics*](http://josecon.org/) which will publish short papers on reusable code and allow computational economists to collect citations for their coding work.
-		
+
 ## Presentations
 
 
@@ -102,12 +101,12 @@ __Abstract__<br>
 
 # Social Event
 
-Although conferences are already awesome by their content, they get unforgettable through social activities. Our Structural Retreat ended with a bike tour from Bonn to Cologne. 
+Although conferences are already awesome by their content, they get unforgettable through social activities. Our Structural Retreat ended with a bike tour from Bonn to Cologne.
 
 <br>
 
 <p align="center">
   <img width="460" height="360" src=material/images/StructRetreat2.jpg>
 	<br>
-  <span> Brave cyclists in front of Cologne Cathedral </span>	
+  <span> Brave cyclists in front of Cologne Cathedral </span>
 </p>
