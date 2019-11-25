@@ -47,8 +47,7 @@ A primer that presents a method to efficiently estimate hidden Markov models wit
 ### [Robust investments under risk and ambiguity](material/presentations/blesch_robustinvestment.pdf)
 **Maximilian Blesch**, *University of Bonn*
 
-The paper revisits [Rust (1987)](https://www.jstor.org/stable/1911259?seq=1#page_scan_tab_contents) and evaluates the sensibility of the decision rule performance to the estimation quality of the transition probabilities. Can the agent account for uncertainty in his estimates? Does accounting for uncertainty lead to a better decision strategy? (tbadded 25th November 2019).
-
+The paper revisits [Rust (1987)](https://www.jstor.org/stable/1911259?seq=1#page_scan_tab_contents) and evaluates the sensibility of the decision rule performance to the estimation quality of the transition probabilities. Can the agent account for uncertainty in his estimates? Does accounting for uncertainty lead to a better decision strategy? Using methods from distributionally robust optimization the authors account for ambiguity and to construct decision rules that explitly take potential model misspecification into account. Given the structure of the model and availability of data on past transitions, a policy that simply ignores potential model misspecification continues to perform very well compared to its alternatives which explictly take model misspecification into account. 
 
 ### [Structural estimation by homotopy continuation](material/presentations/mueller_homotopycontinuation.pdf)
 **Philipp Mueller**, *University of Zurich*
