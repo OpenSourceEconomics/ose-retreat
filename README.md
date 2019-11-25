@@ -38,10 +38,9 @@ Fedor introduced us to the emerging [*Journal of Open Source Economics*](http://
 
 
 ### [Female Labor Supply and Biased Beliefs: A Structural Approach](materials/presentation/ilieva_beliefs.pdf)
-**Boryana Ilieva,**     
-*DIW Berlin*  
 
-__Abstract__<br>
+**Boryana Ilieva**, *DIW Berlin*  
+
 *Do women have biased expectations about returns to experience and about the part-time penalty? Using [SOEP](https://www.diw.de/soep) data the paper provides empirical evidence about returns to experience and the part-time penalty. In a dynamic setting, the authors investigate how biased expectations (about the part-time penalty) may affect employment choices and how policies can increase female employment and working hours (under those biased beliefs). To elicit expectations about returns to experience in full-time/part-time employment in the short/long run, newly designed survey questions are incorporated in the [SOEP-IS](https://www.diw.de/de/diw_01.c.511801.de/soep_is_innovative_modules.html) module. Empirical findings based on [SOEP](https://www.diw.de/soep) data reveal that expected returns to experience in part-time and full-time work do not differ. There is no expected part-time penalty in experience. Nevertheless, reduced form evidence points towards evidence of a part-time penalty in experience. The estimation of a structural model reveals the existence of biased expectations. A policy simulation shows that de-biasing reduces the part-time choice rates in the structural estimation.*
 
 
