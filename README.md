@@ -3,7 +3,7 @@
 The **OSE Retreat** is an event hosted by the [OpenSourceEconomics (OSE)](https://OpenSourceEconomics.github.io) initiative in Bonn. One of our main goals is to bolster the ongoing interchange of concepts, methods, and ideas around structural economics. To this end, the **OSE Retreat** is a dedicated event that fosters new developments, and establishes a network including doctoral student, post-doctoral scholars, and leading researchers in the field. The **OSE Retreat** encourages to present early-stage / fleshed-out research ideas, presentations of working / published papers, and other contributions covering structural econometric models, software packages and scientific computing. We aim to mutually increase our understanding of methods emerging in intersecting disciplines (i.e. mathematics or computer science), and how they can be applied to economic problems.
 
 
-# OSE Retreat,  *13th September, 2019*  *University of Bonn*.
+# OSE Retreat,  *13th September, 2019*<br>*University of Bonn*
 
 ## Keynote Speech
 
