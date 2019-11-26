@@ -83,5 +83,5 @@ We concluded our first retreat with a bike trip from Bonn to Cologne along the r
 <p align="center">
   <img width="460" height="360" src=material/images/StructRetreat2.jpg>
 	<br>
-  <span> Group in front of Cologne Cathedral </span>
+  <span> Participants in front of Cologne Cathedral </span>
 </p>
