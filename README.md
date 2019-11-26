@@ -2,8 +2,6 @@
 
 We host an annual retreat in support of our research activities and organized around our research codes.
 
------------------------------------------------------------------------------
-
 ## 2019
 
 **Date** September 13th, 2019
