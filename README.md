@@ -1,10 +1,12 @@
 # OpenSourceEconomics Retreat
 
-We host an annual retreat in support of our research activities. The event is organized around our research codes that are under active development.
+We host an annual retreat in support of our research activities and organized around our research codes.
+
+-----------------------------------------------------------------------------
 
 ## 2019
 
-**Date** September13th, 2019
+**Date** September 13th, 2019
 
 **Location** Institute for Applied Microeconomics, University of Bonn
 
