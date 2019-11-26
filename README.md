@@ -10,7 +10,7 @@ We host an annual retreat in support of our research activities. We organize the
 
 ### Keynote
 
-#### [Effects of taxes and safety net pensions on life-cycle Labor supply, savings and human capital: The case of Australia](material/presentations/iskhakov_prelim_taxessafetynetpensions.pdf)
+#### [Effects of taxes and safety net pensions on life-cycle labor supply, savings and human capital: The case of Australia](material/presentations/iskhakov_prelim_taxessafetynetpensions.pdf)
 **Fedor Iskhakov**, *Australian National University*
 
 The paper structurally estimates a life-cycle model of consumption/savings, labor supply and retirement, using data from the Australian HILDA panel. The model is used to evaluate effects of Australia's Age Pension system and income tax policy on labor supply, consumption and retirement. The model accounts for human capital, savings, uninsurable wage risk and credit constraints. The authors account for "bunching" of hours by assuming a discrete set of hours levels, and they investigate labor supply on both the intensive and extensive margins. The model allows to quantify the effects of anticipated and unanticipated tax and pension policy changes at different points of the life-cycle. The results imply that Australia's Age Pension system as currently design is poorly targeted. The simulations suggest that a doubling of taper rates, combined with 5.9% reduction of income tax rates, would be budget neutral and Pareto improving. *(The current version of the paper, on which this abstract is based, can be accessed at the homepage of [Fedor Iskhakov](http://fedor.iskh.me/assets/pdf/ik.pdf))*
