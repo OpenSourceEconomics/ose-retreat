@@ -1,6 +1,6 @@
 # OpenSourceEconomics Retreat
 
-We host an annual retreat in support of our research activities and organized around our research codes.
+We host an annual retreat in support of our research activities. The event is organized around the research codes that are under active development to facilitate a productive exchange of ideas. While participants were initially limited to economists, we hope to expand the event to include the broader mathematics and computational science community. 
 
 ## 2019
 
@@ -65,14 +65,14 @@ Placeholder
 
 ### Social Event
 
-Although conferences are already awesome by their content, they get unforgettable through social activities. Our Structural Retreat ended with a bike tour from Bonn to Cologne.
+We concluded our first retreat with a bike trip from Bonn to Cologne along the river Rhine.
 
 <br>
 
 <p align="center">
-  <img width="460" height="360" src=material/images/StructRetreat.jpg alt="Organizer Philipp and Keynote Speaker Fedor">
+  <img width="460" height="360" src=material/images/StructRetreat.jpg alt="Philipp Eisenhauer and Fedor Iskhakov">
   	<br>
-  <span> Organizer Philipp Eisenhauer and Keynote Speaker Fedor Iskhakov </span>
+  <span> Philipp Eisenhauer and Fedor Iskhakov </span>
 </p>
 
 <br>
@@ -83,5 +83,5 @@ Although conferences are already awesome by their content, they get unforgettabl
 <p align="center">
   <img width="460" height="360" src=material/images/StructRetreat2.jpg>
 	<br>
-  <span> Brave cyclists in front of Cologne Cathedral </span>
+  <span> Group in front of Cologne Cathedral </span>
 </p>
