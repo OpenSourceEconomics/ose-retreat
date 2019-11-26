@@ -70,9 +70,9 @@ We concluded our first retreat with a bike trip from Bonn to Cologne along the r
 <br>
 
 <p align="center">
-  <img width="460" height="360" src=material/images/StructRetreat.jpg alt="Philipp Eisenhauer and Fedor Iskhakov">
-  	<br>
-  <span> Philipp Eisenhauer and Fedor Iskhakov </span>
+  <img width="460" height="360" src=material/images/StructRetreat2.jpg>
+	<br>
+  <span> Participants in front of Cologne Cathedral </span>
 </p>
 
 <br>
@@ -81,7 +81,7 @@ We concluded our first retreat with a bike trip from Bonn to Cologne along the r
 <br>
 
 <p align="center">
-  <img width="460" height="360" src=material/images/StructRetreat2.jpg>
-	<br>
-  <span> Participants in front of Cologne Cathedral </span>
+  <img width="460" height="360" src=material/images/StructRetreat.jpg alt="Philipp Eisenhauer and Fedor Iskhakov">
+  	<br>
+  <span> Philipp Eisenhauer and Fedor Iskhakov </span>
 </p>
