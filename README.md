@@ -58,10 +58,12 @@ We incorporate techniques from distributionally robust optimization into a dynam
 The paper proposes a novel method to estimate structural parameter efficiently and systematically, even in models with one poorly identified parameter and in the presence of multiple equilibria. Inference is based on the full (profile) likelihood function, instead of point estimates. The approach includes (1) to formulate the structural estimation as a parameterized version of [Su and Judd (2012)](https://www.jstor.org/stable/23271445?seq=1), and (2) to solve the problem efficiently by homotopy parameter continuation. The presentation of the concept focuses on dynamic discrete choice models where the discount parameter is generally poorly identified. Using the original data set and model from [Rust (1987)](https://www.jstor.org/stable/1911259?seq=1#page_scan_tab_contents) they can reject the instance that the discounting parameter is unidentified, and estimate it to be statistically significant larger than one.
 
 
-#### Placeholder
+#### [Predictive regressions: What’s stationarity got to do with it](material/presentations/erbe_predictiveregressions.pdf)
 **Robert Erbe**, *University of Zurich*
 
-Placeholder
+To answer the question whether stock returns are predictable one could simply run a regression on returns, using a forecasting variable that is very persistent and slow-moving. In the literature the forecasting variable is often modeled as AR(1) process and confined to be stationary. Using this approach, finite sample bias can inflate the coefficient on the stock returns. 
+The authors use a vector autoregression model by Stambaugh (1986, 1999), Mankiw and Shapiro (1986) in order to contrast estimation by Likelihood to a regression approach. Using the “full” likelihood assures stationarity of the VAR, whereas least squares does not (although assumed). The paper presents MLE and inference based on constrained optimization. Power gains from stationarity are realized. On the other hand finite-sample bias leads to power loss. The authors conclude that likelihood estimation provides a natural way to preserve stationarity for both, estimation and inference. They demonstrate that the computation of Likelihood is computationally not prohibitive. Finally, they show that their test has too much bite and propose a bias correction that might resolve this problem.
+
 
 ### Social Event
 
