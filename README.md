@@ -8,11 +8,11 @@ We host an annual retreat in support of our research activities. We organize the
 
 **Location** Institute for Applied Microeconomics, University of Bonn
 
+We will host regular conference talks on the first two days and then organize a social event for the third day to facilitate networking.
+
 ### Keynote Speaker
 
 [Kenneth L. Judd](https://web.stanford.edu/~judd/), Hoover Institution
-
-We will host regular conference talks on the first two days and then organize a social event for the third day to facilitate networking.
 
 ## 2019
 
