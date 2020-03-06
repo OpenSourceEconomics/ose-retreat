@@ -2,6 +2,18 @@
 
 We host an annual retreat in support of our research activities. We organize the event around the research codes that are under active development in our group to facilitate a productive exchange of ideas. While participants were initially limited to economists, we hope to expand the event and include the broader mathematics and computational science community going forward.
 
+## 2020
+
+**Date** September 7th - 9th, 2020
+
+**Location** Institute for Applied Microeconomics, University of Bonn
+
+### Keynote Speaker
+
+[Kenneth L. Judd](https://web.stanford.edu/~judd/), Hoover Institution
+
+We will host regular conference talks on the first two days and then organize a social event for the third day to facilitate networking.
+
 ## 2019
 
 **Date** September 13th, 2019
@@ -62,7 +74,7 @@ The paper proposes a novel method to estimate structural parameter efficiently a
 #### [Predictive regressions: What’s stationarity got to do with it](material/presentations/erbe_predictiveregressions.pdf)
 **Robert Erbe**, *University of Zurich*
 
-To answer the question whether stock returns are predictable one could simply run a regression on returns, using a forecasting variable that is very persistent and slow-moving. In the literature the forecasting variable is often modeled as AR(1) process and confined to be stationary. Using this approach, finite sample bias can inflate the coefficient on the stock returns. 
+To answer the question whether stock returns are predictable one could simply run a regression on returns, using a forecasting variable that is very persistent and slow-moving. In the literature the forecasting variable is often modeled as AR(1) process and confined to be stationary. Using this approach, finite sample bias can inflate the coefficient on the stock returns.
 The authors use a vector autoregression model by [Stambaugh (1986)](https://faculty.wharton.upenn.edu/wp-content/uploads/2014/03/KS-JFE1986.pdf)[(1999)](http://schwert.ssb.rochester.edu/f533/jfe99_rs.pdf), [Mankiw and Shapiro (1986)](http://www-personal.umich.edu/~shapiro/papers/EcLetters-1986.pdf) in order to contrast estimation by likelihood to a regression approach. Using the “full” likelihood assures stationarity of the VAR, whereas least squares does not (although assumed). The paper presents MLE and inference based on constrained optimization. Power gains from stationarity are realized. On the other hand finite-sample bias leads to power loss. The authors conclude that likelihood estimation provides a natural way to preserve stationarity for both, estimation and inference. They demonstrate that the computation of Likelihood is computationally not prohibitive. Finally, they show that their test has too much bite and propose a bias correction that might resolve this problem.
 
 
