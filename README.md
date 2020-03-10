@@ -6,7 +6,7 @@ We host an annual retreat in support of our research activities. We organize the
 
 **Date** September 7th - 9th, 2020
 
-**Location** Institute for Applied Microeconomics, University of Bonn
+**Location** IAME, University of Bonn
 
 We will host regular conference talks on the first two days and then organize a social event for the third day to facilitate networking.
 
@@ -18,7 +18,7 @@ We will host regular conference talks on the first two days and then organize a 
 
 **Date** September 13th, 2019
 
-**Location** Institute for Applied Microeconomics, University of Bonn
+**Location** IAME, University of Bonn
 
 ### Keynote
 
@@ -45,7 +45,7 @@ The presentation compares different integration methods to solve the so-called E
 #### [Efficient solution, filtering and estimation of models with OBCs](material/presentations/boehl_modelsobc.pdf)
 **Gregor Boehl**, *Goethe University Frankfurt*
 
-Occasionally binding constraints (OBCs) play a central role in macroeconomic modelling since major developed economies have hit the zero lower bound (ZLB) on interest rates. The paper proposes a solution method for rational expectations models with OBCs and a Bayesian filter/smoother that, both combined, can be used for quick and accurate Bayesian estimation of large-scale models. The quasi-analytic solution method calculates the endogenous duration at the constraint while avoiding matrix inversions and simulations at runtime for gains in computational speed. The TEnKF (transposed Ensemble Kalman Filter) is a hybrid of the particle filter and the Kalman filter that, requiring only a very small number of particles, can be used to approximate the likelihood of nonlinear models with high accuracy. The IPA (iterative path-adjusting transposed-ensemble RTS) smoother adds a smoother and an iterative procedure to filter and can be applied to estimate the state distributions while fully respecting the nonlinearity of the transition function. Further, a massively parallelized combination of different forms of heuristic global optimizers is proposed to avoid local maxima of the likelihood function. Techniques from astrophysics for efficient sampling from the posterior distribution are suggested. As an example, these methods are used to estimate the simple New Keynesian model. *(The current version of the paper, on which this abstract is based, can be accessed at the homepage of [Gregor Boehl (2019)](http://gregorboehl.com/live/obc_boehl.pdf))*
+Occasionally binding constraints (OBCs) play a central role in macroeconomic modelling since major developed economies have hit the zero lower bound (ZLB) on interest rates. The paper proposes a solution method for rational expectations models with OBCs and a Bayesian filter/smoother that, both combined, can be used for quick and accurate Bayesian estimation of large-scale models. The quasi-analytic solution method calculates the endogenous duration at the constraint while avoiding matrix inversions and simulations at runtime for gains in computational speed. The TEnKF (transposed Ensemble Kalman Filter) is a hybrid of the particle filter and the Kalman filter that, requiring only a very small number of particles, can be used to approximate the likelihood of nonlinear models with high accuracy. The IPA (iterative path-adjusting transposed-ensemble RTS) smoother adds a smoother and an iterative procedure to filter and can be applied to estimate the state distributions while fully respecting the nonlinearity of the transition function. Further, a massively parallelized combination of different forms of heuristic global optimizers is proposed to avoid local maxima of the likelihood function. Techniques from astrophysics for efficient sampling from the posterior distribution are suggested. As an example, these methods are used to estimate the simple New Keynesian model. *(The current version of the paper can be accessed on the homepage of [Gregor Boehl (2019)](http://gregorboehl.com/live/obc_boehl.pdf))*
 
 
 #### [A primer on recursive likelihood function integration](material/presentation/maag_rescursivelikelihood.pdf)
